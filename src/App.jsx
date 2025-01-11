@@ -81,6 +81,17 @@ function App() {
           onChange={(e) => setDate(e.target.value)}
         />
       </div>
+      <div>
+        <br />
+        <p>
+          <strong>Note:</strong> The picture of the day is only available from June 16, 1995.
+        </p>
+        <br />
+        <br />
+        <p>
+          Do it for fun by<strong> Xavi Desarticulado</strong>
+        </p>
+      </div>
     </div>
   );
 }

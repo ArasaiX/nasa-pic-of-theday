@@ -89,7 +89,7 @@ function App() {
         <br />
         <br />
         <p>
-          Do it for fun by<strong> Xavi Desarticulado</strong>
+        Made for fun by<strong> Xavi Desarticulado</strong>
         </p>
       </div>
     </div>
